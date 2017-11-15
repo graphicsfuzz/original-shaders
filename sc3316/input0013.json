@@ -1,0 +1,16 @@
+{
+    "resolution": {
+        "func":  "glUniform2f",
+        "args": [
+            256.0,
+            256.0
+        ]
+    },
+    "modparam": {
+        "func": "glUniform1f",
+        "args": [
+            4.0
+         ]
+    }
+}
+      
